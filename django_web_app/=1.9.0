@@ -1,0 +1,9 @@
+Collecting django-crispy-forms
+  Downloading django_crispy_forms-2.1-py3-none-any.whl.metadata (5.0 kB)
+Requirement already satisfied: django>=4.2 in ./venv/lib/python3.10/site-packages (from django-crispy-forms) (4.2.9)
+Requirement already satisfied: asgiref<4,>=3.6.0 in ./venv/lib/python3.10/site-packages (from django>=4.2->django-crispy-forms) (3.7.2)
+Requirement already satisfied: sqlparse>=0.3.1 in ./venv/lib/python3.10/site-packages (from django>=4.2->django-crispy-forms) (0.4.4)
+Requirement already satisfied: typing-extensions>=4 in ./venv/lib/python3.10/site-packages (from asgiref<4,>=3.6.0->django>=4.2->django-crispy-forms) (4.9.0)
+Downloading django_crispy_forms-2.1-py3-none-any.whl (31 kB)
+Installing collected packages: django-crispy-forms
+Successfully installed django-crispy-forms-2.1
